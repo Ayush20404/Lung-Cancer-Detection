@@ -22,6 +22,8 @@ The goal of this project is to assist in early detection of lung cancer by lever
 - Grayscale images converted to **3-channel RGB** for VGG16 compatibility
 - Image resizing and normalization
 - Data augmentation applied to improve generalization
+- 🔗 **Dataset Link:**  
+[Click here to access the dataset](https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset)
 
 ---
 
